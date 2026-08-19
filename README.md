@@ -1,4 +1,4 @@
-# Data-Professionals-Survey-Breakdown
+# Data-Professionals-Survey-Breakdown Power BI
 This project analyzes survey responses from data professionals using Power BI, to understand salary trends, career satisfaction, work-life balance, and the challenges of entering the data industry.
 
 ## Dataset Used
