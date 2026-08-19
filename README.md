@@ -1,6 +1,9 @@
 # Data-Professionals-Survey-Breakdown
 This project analyzes survey responses from data professionals using Power BI, to understand salary trends, career satisfaction, work-life balance, and the challenges of entering the data industry.
 
+## Dataset Used
+[View Dataset](https://github.com/deeptipaiwork-oss/Data-Professionals-Survey-Breakdown/blob/main/Power%20BI%20Project%20Dataset.xlsx)
+
 ## Project Objectives
 - Analyze survey data from data professionals to identify industry trends.
 - Identify the most popular programming languages and tools used by respondents.
